@@ -28,7 +28,6 @@ Owner of **[Infamous](https://infamous.is)** — a zero-trust SaaS & MSP provisi
 | **`[OSS]`** | **[tagsha](https://github.com/infamousrusty/tagsha)** | Eliminates floating tag supply chain vulnerabilities by automating exact commit SHA lookups for container images. No more trusting `latest`. | `Go` `React` `Docker` |
 | **`[OSS]`** | **[tree-amigos](https://github.com/infamousrusty/tree-amigos)** | Plant tracking & garden optimisation app. Because even offline infrastructure needs a garden. | `TypeScript` `Docker` |
 | **`[OSS]`** | **[IaC](https://github.com/infamousrusty/IaC)** | Homelab infrastructure-as-code. Proxmox, Docker Swarm, Terraform, Packer — all declarative, all reproducible. | `HCL` `Terraform` `Packer` |
-| **`[OSS]`** | **[cookiecutter](https://github.com/infamousrusty/cookiecutter)** | Opinionated project scaffolding templates. Standardised structure from day one. | `Shell` `YAML` |
 | **`[CORP]`** | **[infamous SC](https://github.com/infamous-sc)** | Zero-trust SaaS/MSP provisioning and supply chain security platform. Red-team grade. | `[REDACTED]` |
 
 ---
